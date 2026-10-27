@@ -1,6 +1,6 @@
 cask "ds-meter" do
-  version "1.0.0"
-  sha256 "32e3da57a08ea9b9abdeba816b0fb4dc0ba5f833817aface044ccf7588d1effe"
+  version "1.0.1"
+  sha256 "3b9135c5a2a4b7e1fdddbe5957e175aeda333d1a54ff96dae0e5b875898264b0"
 
   url "https://github.com/slow-coding/ds-meter/releases/download/v#{version}/DS-Meter-#{version}.dmg"
   name "DS Meter"
